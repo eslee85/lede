@@ -7,7 +7,7 @@
 # <https://github.com/KFERMercer/OpenWrt-CI>
 #
 
-name: ES's x86-64 OpenWRT R0
+name: ES's x86-64 OpenWRT R1
 
 on:
   push:
